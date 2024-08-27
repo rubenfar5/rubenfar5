@@ -63,6 +63,7 @@
 - **API Gateway:** Developed an API Gateway/Common Communication Bus using ASP.NET Core and Ocelot.
 
 <br>
+
 ### Summer Internship (06/2022 – 07/2022)
 **TMG Automotive, Vila Nova de Famalicão, Portugal**
 
@@ -74,10 +75,13 @@
 
 - **Web App Testing Integration with SAP (10/2021 – 01/2022):** Integrated Moloni with SAP S/4HANA. Focused on backend connection using Mendix.
 <br>
+
 - **Web App Development - ProChild CoLAB (02/2021 – 06/2021):** Implemented a web application using Java, JavaScript, HTML, CSS, SQL. IDEs: IntelliJ IDEA, MySQL.
 <br>
+
 - **Website Development - Maritime Police (10/2020 – 01/2021):** Developed a website using HTML, CSS, JavaScript, SQL. IDE: Visual Studio Code, MySQL.
 <br>
+
 - **Hospital Management App (02/2020 – 06/2020):** Developed a hospital management application using Java. IDE: NetBeans. [www.github.com/ProjetoPP/Java](https://github.com/ProjetoPP/Java)
 
 <hr>
