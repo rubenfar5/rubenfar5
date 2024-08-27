@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **Clash of Clans expert**
 
-<hr>
+<br>
 
 **Check my cv: 📜** [Ruben_Faria_CV](https://drive.google.com/file/d/1pjaIc7-eItTYojg-a5TC0hXaex3lcyvy/view?usp=drive_link)
 
