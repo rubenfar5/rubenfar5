@@ -1,5 +1,6 @@
 <h1 align="center">Hello there! 👋 I'm Rúben! </h1>
-
+<hr>
+<br>
 # Rúben João Santos Faria 🎓💻
 
 **Date of Birth:** 16/05/2001  
@@ -47,6 +48,7 @@
 
 **Thesis:** Interoperability of a Computer-Based R&D+I Project Management Tool with the Technological Ecosystem Supporting Management in R&D+I Organizations: The Case of the Computer-based Tool GPTools
 
+<br>
 ### Bachelor's Degree in Information Systems Engineering and Management (09/2019 – 06/2022)
 **Universidade do Minho, Guimarães, Portugal**
 
@@ -55,8 +57,9 @@
 - **Network Configuration:** Configure computer networks, apply information security principles, and ensure the reliability and protection of technological systems.
 - **Business Context:** Understanding of the economic, legal, and social context of businesses, including data protection, project management, and aligning IT with strategic business objectives.
 
-**Final Grade:** Average Score of 15.58 out of 20
+**Final Grade:** Average Score of 16 out of 20
 
+<hr>
 ## 💼 Work Experience
 
 ### Software Engineering & Researcher (07/2023 – Current)
@@ -67,21 +70,29 @@
 - **Interoperability Mechanisms:** Developed mechanisms to enhance interoperability with other tools (e.g., ERP Primavera, Achievo) incorporating security access via Microsoft Entra ID.
 - **API Gateway:** Developed an API Gateway/Common Communication Bus using ASP.NET Core and Ocelot.
 
+<br>
 ### Summer Internship (06/2022 – 07/2022)
 **TMG Automotive, Vila Nova de Famalicão, Portugal**
 
 - **Module Development:** Developed modules for the supplier portal, improving audits by the purchasing department on suppliers, enhancing quality control (ASP.NET MVC, C#, SQL, Microsoft SQL Server).
 
+<hr>
 ## 🚀 Projects
 
 - **Web App Testing Integration with SAP (10/2021 – 01/2022):** Integrated Moloni with SAP S/4HANA. Focused on backend connection using Mendix.
+<br>
 - **Web App Development - ProChild CoLAB (02/2021 – 06/2021):** Implemented a web application using Java, JavaScript, HTML, CSS, SQL. IDEs: IntelliJ IDEA, MySQL.
+<br>
 - **Website Development - Maritime Police (10/2020 – 01/2021):** Developed a website using HTML, CSS, JavaScript, SQL. IDE: Visual Studio Code, MySQL.
+<br>
 - **Hospital Management App (02/2020 – 06/2020):** Developed a hospital management application using Java. IDE: NetBeans. [www.github.com/ProjetoPP/Java](https://github.com/ProjetoPP/Java)
+<hr>
 
 ## 🛠 Management & Leadership Skills
 
 - **Sub-delegate:** Represented and managed a group of master's students, addressing their questions and concerns effectively.
+
+<hr>
 
 ## ⚽ Hobbies and Interests
 
