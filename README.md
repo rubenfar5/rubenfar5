@@ -1,14 +1,4 @@
 <h1 align="center">Hello there! 👋 I'm Rúben! </h1>
-<hr>
-<br>
-# Rúben João Santos Faria 🎓💻
-
-**Date of Birth:** 16/05/2001  
-**Email:** [rubenfar5@gmail.com](mailto:rubenfar5@gmail.com)  
-**Website:** [www.github.com/rubenfar5](https://www.github.com/rubenfar5)  
-**LinkedIn:** [www.linkedin.com/in/ruben-joao-faria](https://www.linkedin.com/in/ruben-joao-faria)
-
-<hr>
 <h3 align="center">Software Engineering and Researcher at CCG/ZGDV Institute, aspiring to be full stack senior.</h3>
 
 - 🔭 I’m currently working on **GPTools for CCG/ZGDV Institute**
@@ -49,6 +39,7 @@
 **Thesis:** Interoperability of a Computer-Based R&D+I Project Management Tool with the Technological Ecosystem Supporting Management in R&D+I Organizations: The Case of the Computer-based Tool GPTools
 
 <br>
+
 ### Bachelor's Degree in Information Systems Engineering and Management (09/2019 – 06/2022)
 **Universidade do Minho, Guimarães, Portugal**
 
@@ -60,6 +51,7 @@
 **Final Grade:** Average Score of 16 out of 20
 
 <hr>
+
 ## 💼 Work Experience
 
 ### Software Engineering & Researcher (07/2023 – Current)
@@ -77,6 +69,7 @@
 - **Module Development:** Developed modules for the supplier portal, improving audits by the purchasing department on suppliers, enhancing quality control (ASP.NET MVC, C#, SQL, Microsoft SQL Server).
 
 <hr>
+
 ## 🚀 Projects
 
 - **Web App Testing Integration with SAP (10/2021 – 01/2022):** Integrated Moloni with SAP S/4HANA. Focused on backend connection using Mendix.
@@ -86,6 +79,7 @@
 - **Website Development - Maritime Police (10/2020 – 01/2021):** Developed a website using HTML, CSS, JavaScript, SQL. IDE: Visual Studio Code, MySQL.
 <br>
 - **Hospital Management App (02/2020 – 06/2020):** Developed a hospital management application using Java. IDE: NetBeans. [www.github.com/ProjetoPP/Java](https://github.com/ProjetoPP/Java)
+
 <hr>
 
 ## 🛠 Management & Leadership Skills
@@ -97,8 +91,18 @@
 ## ⚽ Hobbies and Interests
 
 - **Soccer:** Soccer player since 2007. Assistant soccer coach for youth (08/2022 - 06/2024).
+<hr>
 
 ## 🌐 Language Skills
 
 - **Portuguese:** Mother tongue
 - **English:** Proficient
+
+<hr>
+
+# Rúben João Santos Faria 🎓💻
+
+**Date of Birth:** 16/05/2001  
+**Email:** [rubenfar5@gmail.com](mailto:rubenfar5@gmail.com)  
+**Website:** [www.github.com/rubenfar5](https://www.github.com/rubenfar5)  
+**LinkedIn:** [www.linkedin.com/in/ruben-joao-faria](https://www.linkedin.com/in/ruben-joao-faria)
