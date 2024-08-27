@@ -7,12 +7,6 @@
 
 - 👯 I’m looking to collaborate on **large and dynamic projects that put me to the test and allow me to improve my skills**
 
-- 🤝 I’m looking for help with **in different development projects, if I cannot contribute with my experience, I intend to gain as much knowledge as possible**
-
-- 💬 Ask me about **everything you want**
-
-- 📫 How to reach me **rubenfar5@gmail.com**
-
 - ⚡ Fun fact **Clash of Clans expert**
 
 <hr>
