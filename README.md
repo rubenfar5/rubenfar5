@@ -1,10 +1,6 @@
 <h1 align="center">Hello there! 👋 I'm Rúben</h1>
 <h3 align="center">Software Engineering and Researcher at CCG/ZGDV Institute, aspiring to be full stack senior.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubenfar5&label=Profile%20views&color=0e75b6&style=flat" alt="rubenfar5" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rubenfar5" alt="rubenfar5" /></a> </p>
-
 - 🔭 I’m currently working on **GPTools for CCG/ZGDV Institute**
 
 - 🌱 I’m currently learning **competitive programming**
