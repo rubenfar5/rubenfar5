@@ -19,7 +19,6 @@
 
 ## 🚀 Highlight Projects
 
-- **Web App Testing Integration with SAP (Backend):** Integrated Moloni with SAP S/4HANA. Focused on backend connection using Mendix. [Testing Integration with SAP](https://github.com/rubenfar5/iaiebackend)
 - **Web App Development - ProChild CoLAB (Full stack):** Implemented a web application using Java, JavaScript, HTML, CSS, SQL. IDEs: IntelliJ IDEA, MySQL. [ProChild BE](https://github.com/rubenfar5/Prochild-BE)
 - **Website Development - Maritime Police (Full stack):** Developed a website using HTML, CSS, JavaScript, SQL. IDE: Visual Studio Code, MySQL. [Maritime Police Web App](https://github.com/rubenfar5/PW)
 - **Hospital Management App (Full stack):** Developed a hospital management application using Java. IDE: NetBeans. [Hospital Management App](https://github.com/ProjetoPP/Java)
